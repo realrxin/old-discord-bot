@@ -1,0 +1,51 @@
+{
+    "token": "",
+    "prefix": ".",
+    "bot_name": "",
+    "main_color": "",
+    "bot_owners": [""],
+
+    "anti_bad_word_toggle": false,
+    "anti_bad_words": [  "nig",  "nigger",  "nigga",  "pussy", "f ucker", "cunt", "penis","dick","dickhead","fucking","ass"],
+
+    "counter": false,
+    "counter_channel": "",
+    "counter_number_reach": 999999999999999,
+    
+    "blacklisted": ["ID 1","ID 2","ID 3"],
+    "whitelisted": ["ID"],
+    
+    "ignore_channel_toggle": false,
+    "ignore_channel_id": [""],
+    
+    "anti_link_toggle": false,
+    "mute_role": "MUTE ROLE HERE",
+
+    "command_cooldown_toggle": false,
+    "command_cooldown_time": "",
+    
+    "xp_system_toggle": false,
+    "xp_system_rate": 10,
+    "xp_system_levelrate": 300,
+    
+    "suggest_system_toggle": false,
+    "suggest_system_channel": "",
+    
+    "report_system_toggle": true,
+    "report_system_channel": "",
+    
+    "mod_logs_toggle": false,
+    "mod_logs_channel": "",
+    "mod_logs_color": "",
+    
+    "anti_selfbot_toggle": false,
+    "anti_self_bot_message": "No self bots allowed!",
+    
+    "status_type": "WATCHING",
+    "bot_status": [""],
+    "status_change_interval": "2",
+    
+    "welcome_message_enabled": false,
+    "welcome_message_server": "",
+    "welcome_message_channel": ""
+}
